@@ -1,4 +1,4 @@
-# Nginx-RTMP-Auth
+# rtmp-auth
 
 Custom NGINX RTMP module auth scripts
 
@@ -6,7 +6,7 @@ Custom NGINX RTMP module auth scripts
 
 Requires MySQL/MariaDB, PHP, [NGINX RTMP/FLV Module](https://github.com/winshining/nginx-http-flv-module)
 
-# Simple Setup
+# Basic Setup
 
 1. Setup a webserver to listen on 127.0.0.1
 2. Edit NGINX Configuration RTMP section to contain:
